@@ -3,8 +3,8 @@ Create new minimal webpack/babel react project with router and screens structure
 
 ## Install
 You can create a project by installing it globally or using `npx`:
-1. `npm i -g react-struct` and `react-struct -n your-project-name`
-2. `npx react-struct`
+1. `npm i -g react-struct` and `react-struct [-n your-project-name]`
+2. `npx react-struct [-n your-project-name]`
 
 This will create project with name `react-struct`. Pass `-n your-project-name` to name it differently.
 
