@@ -7,7 +7,6 @@
     "react-struct": "bin/cli.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "release": "np"
   },
   "preferGlobal": true,
