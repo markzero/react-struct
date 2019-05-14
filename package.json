@@ -1,6 +1,6 @@
 {
   "name": "react-struct",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Create minimal webpack/babel React project with screens structure.",
   "main": "index.js",
   "bin": {
